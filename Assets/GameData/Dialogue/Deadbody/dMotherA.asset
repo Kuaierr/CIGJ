@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edc09d1df20093c4fb625cd52b832843, type: 3}
+  m_Name: dMotherA
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 1
+    image: {fileID: 21300000, guid: c70e1abec4ad046408f8232c9ab3ff64, type: 3}
+    text: "\u5988\u5988\u4EF0\u5012\u5728\u6D74\u5BA4\u5185"
+    options: []
+  - ID: 2
+    image: {fileID: 21300000, guid: c70e1abec4ad046408f8232c9ab3ff64, type: 3}
+    text: "\u5934\u4E0A\u4F3C\u4E4E\u6709\u51FB\u6253\u7684\u75D5\u8FF9"
+    options: []

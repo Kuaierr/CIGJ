@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6895749ba2832294f82c047d781d37b5, type: 3}
+  m_Name: "\u6DCB\u6D74"
+  m_EditorClassIdentifier: 
+  name: "\u6DCB\u6D74"
+  interactType: 1
+  itemType: 5
+  itemIcon: {fileID: 0}
+  description: 
+  stackable: 0
+  needHeight: 0
+  changeable: 0
+  height: 0
+  takeable: 0
+  prefab: {fileID: 0}
+  filelist:
+  - {fileID: 4900000, guid: 0c67c21615bbadf49856113bd8dca5e5, type: 3}
+  - {fileID: 4900000, guid: a3ce2f98735a5474aaa287cc0883b6a7, type: 3}
+  talkui: {fileID: 0}

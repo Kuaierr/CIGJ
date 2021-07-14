@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6895749ba2832294f82c047d781d37b5, type: 3}
+  m_Name: "\u5C0F\u5B69\u5367\u5BA4\u95E8"
+  m_EditorClassIdentifier: 
+  name: "\u5C0F\u5B69\u5367\u5BA4\u95E8"
+  interactType: 3
+  itemType: 3
+  itemIcon: {fileID: 0}
+  description: 
+  stackable: 0
+  takeable: 0
+  prefab: {fileID: 0}
+  dialogues:
+  - {fileID: 11400000, guid: e2020095255845f42b66c5b5ecf0ff8c, type: 2}
+  - {fileID: 11400000, guid: 1e0c905e3a3abd64fa06ff16870e5721, type: 2}
+  currentIndex: 0
+  backIndex: 1
+  target: {fileID: 0}
+  targetIndex: 0
+  afterChange: {fileID: 0}

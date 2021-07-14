@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6895749ba2832294f82c047d781d37b5, type: 3}
+  m_Name: dFatherA
+  m_EditorClassIdentifier: 
+  name: 
+  interactType: 1
+  itemType: 5
+  itemIcon: {fileID: 0}
+  description: 
+  stackable: 0
+  takeable: 0
+  prefab: {fileID: 0}
+  dialogues:
+  - {fileID: 11400000, guid: eb87d22ead7d8574ab2a8baddb9459e6, type: 2}
+  currentIndex: 0
